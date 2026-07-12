@@ -39,4 +39,4 @@ else:
     print(">> Incorrect!")
 
 print(f"====YOU GOT {score} QUESTIONS CORRECT!====")
-print(f"====YOU GOT {(score/4)*100} QUESTIONS CORRECT!====")
+print(f"====YOU GOT {(score/4)*100}% ====")
